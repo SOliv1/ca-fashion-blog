@@ -1,5 +1,6 @@
 # Code Academy 
 ## Fashion Blog Project
+Sample Blog
 ### Deployed on Netlify 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/57eb34be-ee1e-4498-bad7-423565a5ef73/deploy-status)](https://app.netlify.com/sites/lighthearted-faun-52ab17/deploys)
 
